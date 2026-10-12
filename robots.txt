@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alikhanaftab13.github.io/afson-convention-centre/sitemap.xml
